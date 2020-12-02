@@ -66,47 +66,44 @@ content:
           - title:  인공지능과 서술형 
             icon: fab fa-youtube
             url: https://www.youtube.com/embed/20h195JbXSQ
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          창의성 개발을 위한 서술형 지원 AI 프로그램 개발
-        description: | # this will include new lines to allow paragraphs
-          -프로젝트 기간 : 2020.03 ~ 현재 <br>
-          -지원 기관 : <a href="https://lms.kofac.re.kr/front/main/index.do" target="_blank"> 한국과학창의재단 </a>\
-          -사용자 기능 정의 및 화면 설계서 작성
-          -프로젝트 DB 설계 및 개발
-            -MySQL, SQLite, PostgreSQL
-          -웹 페이지 개발
-            -Django : web back-end 개발
-            -Bootstrap, HTML, css, jQuery, Ajax : web front-end 개발
-            -Python : request 데이터 처리, 채점 모델 API 연결
-            -Docker : 시스템 구축 및 실행
-            
-      - layout: top-middle
-        title: WA3I-Automated-Scoring
-        link: https://github.com/TeamLab/WAI-Automated-Scoring
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/WAI-Automated-Scoring
-            icon: fab fa-github
-            url: https://github.com/Wonyoungpark/WAI-Automated-Scoring
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          - title:  WA3I-Automated-Scoring
+            icon: fab fa-notion
+            url: https://www.notion.so/Ruby-Autograding-7163b70b739d4ef8b994c48f7964b6b2
         quote: >
           창의성 개발을 위한 서술형 지원 AI 프로그램 개발
         description: | # this will include new lines to allow paragraphs
           - 프로젝트 기간 : 2020.03 ~ 현재 <br>
-          - 지원 기관 : <a href="https://lms.kofac.re.kr/front/main/index.do" target="_blank"> 한국과학창의재단 </a>\
+          - 지원 기관 : <a href="https://lms.kofac.re.kr/front/main/index.do" target="_blank"> 한국과학창의재단 </a><br>
           - 사용자 기능 정의 및 화면 설계서 작성<br>
           - 프로젝트 DB 설계 및 개발<br>
-            - MySQL, SQLite, PostgreSQL<br>
+            -MySQL, SQLite, PostgreSQL<br>
           - 웹 페이지 개발<br>
             - Django : web back-end 개발<br>
             - Bootstrap, HTML, css, jQuery, Ajax : web front-end 개발<br>
             - Python : request 데이터 처리, 채점 모델 API 연결<br>
             - Docker : 시스템 구축 및 실행<br>
+            
+      - layout: top-middle
+        title: Ruby-Autograding
+        # link_text: Project Website
+        github: Wonyoungpark/Ruby-Autograding
+        additional_links:
+          - title:  Ruby-Autograding
+            icon: fab fa-notion
+            url: https://www.notion.so/Ruby-Autograding-7163b70b739d4ef8b994c48f7964b6b2
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          AI 자동 채점 지원 프로그램 개발
+        description: | # this will include new lines to allow paragraphs
+          - 프로젝트 기간 : 2020.08 ~ 현재 <br>
+          - 지원 기관 : <a href="http://theteamlab.io/" target="_blank">TEAMLAB</a><br>
+          - 사용자 기능 정의 및 화면 설계서 작성<br>
+          - 프로젝트 DB 설계 및 개발<br>
+            - MySQL, SQLite<br>
+          - 웹 페이지 개발<br>
+            - Vue.js, Node.js, Express : web back-end 개발<br>
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
