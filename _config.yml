@@ -51,30 +51,63 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
-# Projects Section
-projects_title: Projects #(Use this to override about projects section title)
+  
 
 content:
-#   - title: Projects # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: top-middle
-#         title: Super awesome project
-#         link: github.com/sproogen
-#         # link_text: Project Website
-#         additional_links:
-#           - title:  sproogen/modern-resume-theme
-#             icon: fab fa-github
-#             url: github.com/sproogen/modern-resume-theme
-#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#           #   icon: fab fa-github
-#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: >
-#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#         description: | # this will include new lines to allow paragraphs
-#           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: WA3I-Automated-Scoring
+        # link_text: Project Website
+        github: TeamLab/WAI-Automated-Scoring
+        link: http://zubiri.gachon.ac.kr:8000/
+        additional_links:
+          - title:  인공지능과 서술형 
+            icon: fab fa-youtube
+            url: https://www.youtube.com/embed/20h195JbXSQ
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          창의성 개발을 위한 서술형 지원 AI 프로그램 개발
+        description: | # this will include new lines to allow paragraphs
+          -프로젝트 기간 : 2020.03 ~ 현재 <br>
+          -지원 기관 : <a href="https://lms.kofac.re.kr/front/main/index.do" target="_blank"> 한국과학창의재단 </a>\
+          -사용자 기능 정의 및 화면 설계서 작성
+          -프로젝트 DB 설계 및 개발
+            -MySQL, SQLite, PostgreSQL
+          -웹 페이지 개발
+            -Django : web back-end 개발
+            -Bootstrap, HTML, css, jQuery, Ajax : web front-end 개발
+            -Python : request 데이터 처리, 채점 모델 API 연결
+            -Docker : 시스템 구축 및 실행
+            
+      - layout: top-middle
+        title: WA3I-Automated-Scoring
+        link: https://github.com/TeamLab/WAI-Automated-Scoring
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/WAI-Automated-Scoring
+            icon: fab fa-github
+            url: https://github.com/Wonyoungpark/WAI-Automated-Scoring
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          창의성 개발을 위한 서술형 지원 AI 프로그램 개발
+        description: | # this will include new lines to allow paragraphs
+          -프로젝트 기간 : 2020.03 ~ 현재 <br>
+          -지원 기관 : <a href="https://lms.kofac.re.kr/front/main/index.do" target="_blank"> 한국과학창의재단 </a>\
+          -사용자 기능 정의 및 화면 설계서 작성
+          -프로젝트 DB 설계 및 개발
+            -MySQL, SQLite, PostgreSQL
+          -웹 페이지 개발
+            -Django : web back-end 개발
+            -Bootstrap, HTML, css, jQuery, Ajax : web front-end 개발
+            -Python : request 데이터 처리, 채점 모델 API 연결
+            -Docker : 시스템 구축 및 실행
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
