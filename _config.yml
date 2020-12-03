@@ -141,7 +141,7 @@ content:
         caption: September 2019 - Present
 #         quote: >
         description: | # this will include new lines to allow paragraphs
-          [![teamlab link](/images/teamlab.png "teamlab"){: width="50%" height="50%"0}{:.aligncenter}](http://theteamlab.io/)
+          [![teamlab link](/images/teamlab.png "teamlab"){: width="50%" height="50%"0}{:.alignright}](http://theteamlab.io/)
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
