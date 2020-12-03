@@ -142,7 +142,7 @@ content:
         quote: >
           http://theteamlab.io/
         description: | # this will include new lines to allow paragraphs
-          ![LOGO](/images/teamlab.png "teamlab"){: width="50%" height="50%"0}{: .right}
+          ![LOGO](/images/teamlab.png "teamlab"){: width="50%" height="50%"0}{: .center}
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -153,7 +153,8 @@ content:
         sub_title: Bachelor of Engineering
 #         quote: >
         description: | # this will include new lines to allow paragraphs
-          Industrial Management Engineering, Computer Science<br>
+          Major : Industrial Management Engineering<br>
+          Double Major : Computer Science<br>
           GPA : 4.04/4.5 <br><br>
           
 #   - title: A Little More About Me
