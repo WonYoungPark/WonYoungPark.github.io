@@ -134,12 +134,12 @@ content:
     content:
       - layout: left
         title: TEAMLAB
-        link: http://theteamlab.io/
+        link: 
         # link_text: boringcompany.com
         sub_title: Undergraduate Researcher
         caption: September 2019 - Present
         quote: >
-        
+          http://theteamlab.io/
         description: | # this will include new lines to allow paragraphs
             images/teamlab.png
             
