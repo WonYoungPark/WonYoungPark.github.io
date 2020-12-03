@@ -141,7 +141,7 @@ content:
         quote: >
           http://theteamlab.io/
         description: | # this will include new lines to allow paragraphs
-            images/teamlab.png
+          ![LOGO](/modern-resume-theme/images/teamlab.png "teamlab")
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
