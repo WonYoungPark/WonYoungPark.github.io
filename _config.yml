@@ -61,7 +61,7 @@ content:
         title: WA3I-Automated-Scoring
         # link_text: Project Website
         github: TeamLab/WAI-Automated-Scoring
-        link: http://zubiri.gachon.ac.kr:8000/
+        link: http://wai.best/
         additional_links:
           - title:  인공지능과 서술형 
             icon: fab fa-youtube
