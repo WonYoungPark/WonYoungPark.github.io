@@ -10,6 +10,7 @@ name: Wonyoung Park
 title: Senior Network System Administrator
 email: holly31521@gmail.com
 website: www.github.com/Wonyoungpark
+phone : 010-6782-7781
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -141,7 +142,7 @@ content:
         quote: >
           http://theteamlab.io/
         description: | # this will include new lines to allow paragraphs
-          ![LOGO](/images/teamlab.png "teamlab"){: width="50%" height="50%"0}{: .center}
+          ![LOGO](/images/teamlab.png "teamlab"){: width="50%" height="50%"0}{: .left}
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
