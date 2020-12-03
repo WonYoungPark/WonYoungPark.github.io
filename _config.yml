@@ -139,10 +139,10 @@ content:
         sub_title: Undergraduate Researcher
         caption: September 2019 - Present
         quote: >
-        about_profile_image: images/teamlab.png
-        description: | # this will include new lines to allow paragraphs
-            #![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df98e740-3d41-46f3-bfad-a1ece529d823/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df98e740-3d41-46f3-bfad-a1ece529d823/Untitled.png)
         
+        description: | # this will include new lines to allow paragraphs
+            images/teamlab.png
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
