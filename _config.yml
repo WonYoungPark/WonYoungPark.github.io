@@ -143,6 +143,7 @@ content:
           http://theteamlab.io/
         description: | # this will include new lines to allow paragraphs
           ![LOGO](/images/teamlab.png "teamlab"){: width="50%" height="50%"0}{: .center}
+          [![LOGO](/images/teamlab.png "teamlab"){: width="50%" height="50%"0}{: .center}](http://theteamlab.io/)
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
