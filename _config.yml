@@ -111,10 +111,10 @@ content:
         title: TEAMLAB_2019_WinterStudy 프로젝트
         # link_text: Project Website
         github: Wonyoungpark/teamlab_2019_winter
-#         additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        additional_links:
+          - title: winter project
+            icon: fas fa-link
+            url: https://github.com/Wonyoungpark/teamlab_2019_winter
         quote: >
           Naver 웹툰 연동 사이트
         description: | # this will include new lines to allow paragraphs
