@@ -159,8 +159,8 @@ content:
           GPA : 4.04/4.5 <br><br>
       - layout: left
         title: University of Hawai'i at Manoa
-        caption: 2020.01.06 - 2020.02.02
         link: https://manoa.hawaii.edu/
+        caption: 2020.01.06 - 2020.02.02
 #         sub_title: Bachelor
 #         quote: >
         description: | # this will include new lines to allow paragraphs
