@@ -165,6 +165,7 @@ content:
 #         quote: >
         description: | # this will include new lines to allow paragraphs
           지원기관 : [가천대학교](https://www.gachon.ac.kr/index.html, "가천대학교 link")<br>
+          Program : 2019-동계 Hawaii Gachon Elite Course
           
 #   - title: A Little More About Me
 #     layout: text
