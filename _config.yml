@@ -50,6 +50,7 @@ github_username:  Wonyoungpark
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요 박원영입니다.
+  수많은 0 중에서 유의미한 <b>1</b> 이 되고 싶은 박원영입니다.
 # skilled in: <mark>Python</mark>, <mark>Django</mark> and <mark>Eating Pizza</mark>
   
 
@@ -84,13 +85,13 @@ content:
             - Docker : 시스템 구축 및 실행<br>
             
       - layout: top-middle
-        title: Ruby-Autograding
+        title: Codeborn-Autograding
         # link_text: Project Website
-        github: Wonyoungpark/Ruby-Autograding
+        github: Wonyoungpark/codeborn
         additional_links:
-          - title:  notion/Ruby-Autograding
+          - title:  notion/Codeborn-Autograding
             icon: fas fa-link
-            url: https://www.notion.so/Ruby-Autograding-7163b70b739d4ef8b994c48f7964b6b2
+            url: https://www.notion.so/Codeborn-Autograding-7163b70b739d4ef8b994c48f7964b6b2
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -105,7 +106,13 @@ content:
           - DB 배포<br>
             - Express<br>
           - 웹 페이지 개발<br>
-            - Vue.js, Node.js : web back-end 개발<br>
+            - Node.js : web back-end 개발<br>
+            - Vue.js : web front-end 개발<br>
+          - 채점 모델 개발<br>
+            - AWS LABMDA를 사용한 채점 모델 (REST API)<br>
+            - Docker 기반 채점 모델 <br>
+          - Docker 기반 시스템 작동 (Web, DB, 채점모델 등)<br>
+          - 웹 페이지 Test Scenario 작성<br>
       
       - layout: top-middle
         title: TEAMLAB_2019_WinterStudy 프로젝트
@@ -156,7 +163,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Major : Industrial Management Engineering<br>
           Double Major : Computer Science<br>
-          GPA : 4.04/4.5 <br><br>
+          GPA : 4.09/4.5 <br><br>
       - layout: left
         title: University of Hawai'i at Manoa
         link: https://manoa.hawaii.edu/
