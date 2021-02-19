@@ -69,7 +69,7 @@ content:
             url: https://www.youtube.com/embed/20h195JbXSQ
           - title:  notion/WA3I-Automated-Scoring
             icon: fas fa-link
-            url: https://www.notion.so/Ruby-Autograding-7163b70b739d4ef8b994c48f7964b6b2
+            url: https://www.notion.so/WAI-Project-4ab740fd57c1426ba422dfda4dfba07b
         quote: >
           창의성 개발을 위한 서술형 지원 AI 프로그램 개발
         description: | # this will include new lines to allow paragraphs
